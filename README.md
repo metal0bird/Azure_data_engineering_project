@@ -1,6 +1,7 @@
 # Azure_data_engineering_project
 An End to End Data Engineering project using Azure tools:
-It's all about using the smart tools in Azure to turn ordinary raw data into useful insights that we can actually use. This project shows just how powerful Azure Data Factory, Data Lake Gen 2, Synapse Analytics, Azure Databricks, and Power BI can be when it comes to working with data.
+
+It's all about using the smart tools in Azure to turn ordinary raw data into useful insights that we can actually use. This project shows just how powerful Azure Data Factory, Data Lake Gen 2, Synapse Analytics, Azure Databricks, and Power BI can be when it comes to working with data.I embarked on a profound analysis of Netflix's extensive array of shows and movies, employing Exploratory Data Analysis (EDA) techniques. The culmination of this endeavor was a finely-tuned recommendation system, meticulously designed to anticipate user preferences. Paired with dynamic data visualizations, this project epitomizes the seamless fusion of data.
 
 Visit - [My blog](https://dev.to/metal0bird/end-to-end-netflix-data-analytics-project-using-microsoft-azure-tools-45bd)
 
