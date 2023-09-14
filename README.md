@@ -130,7 +130,7 @@ Content based filtering on the following factors:
 - Director
 - Listed in
 - Plot
-- 
+
 ```python
 def create_soup(x):
     return x['title']+ ' ' + x['director'] + ' ' + x['cast'] + ' ' +x['listed_in']+' '+ x['description']
